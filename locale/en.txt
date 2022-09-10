@@ -1,0 +1,28 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Alappuzha
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_310A1E55_3B6C_DE7A_41BD_30F37B788B65.label = Art Gallery, Alappuzha
+panorama_32119397_3B6C_46E6_41CD_39523B1D79DD.label = Art Gallery, Alappuzha
+panorama_3211AB49_3B6C_466A_41B6_70512553BD47.label = Art Gallery, Alappuzha
+panorama_3211C7E0_3B6C_4E5A_41C5_CA1AA0D2425E.label = Art Gallery, Alappuzha
+panorama_3211E721_3B6C_4FDA_41C3_B033ECAD8759.label = Art Gallery, Alappuzha
+panorama_32ED3BF5_3B6C_C625_41A2_69C8313C3EE1.label = Art Gallery, Alappuzha
